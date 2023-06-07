@@ -1,0 +1,15 @@
+C++ programming language 
+    -> "cpp primer book" (800)
+    -> leetcode 
+    -> hackerrank 
+    -> codewars
+Discrete mathematics 
+    -> "coursera course 
+    -> "discrete mathematics and its applications" (942)
+    -> hackerrank 
+Algorithms 
+    -> "coursera course" 
+    ->  "intro to algorithms 4th edition" (1136)
+    ->  leetcode 
+    -> hackerrank 
+    -> codewars
