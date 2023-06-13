@@ -22,6 +22,9 @@ string::size_type find_char(const string &s, char c, string::size_type &occurs) 
 }
 
 int main() {
-    
+    string name{"youssef"};
+    char c = 'e';
+    size_t numOccurnece;
+    size_t index = find_char(name, c, numOccurnece);
     return 0;
 }
