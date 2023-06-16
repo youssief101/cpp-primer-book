@@ -7,6 +7,8 @@
 #include <iostream>
 using std::cout; using std::endl;
 
+#include "exercises_libs.h"
+
 void swap(int &ivar1, int &ivar2) {
     int temp{ivar1};
     ivar1 = ivar2;

@@ -4,10 +4,7 @@
 #include <iostream>
 using std::cout; using std::endl; using std::cin;
 
-void reset(int &ivar) {
-    /* a function that takes a reference and sets the referenced-to value to zero */
-    ivar = 0;
-}
+#include "exercises_libs.h"
 
 int main() {
     // initialization phase

@@ -6,11 +6,7 @@
 #include <iostream>
 using std::cout; using std::endl;
 
-void swap(int *ip1, int *ip2) {
-    int temp = *ip1;
-    *ip1 = *ip2;
-    *ip2 = temp;
-}
+#include "exercises_libs.h"
 
 int main() {
     int var1{10};

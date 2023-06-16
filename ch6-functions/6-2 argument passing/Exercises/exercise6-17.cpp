@@ -4,7 +4,7 @@ using std::cout; using std::endl;
 #include <string>
 using std::string;
 
-#include "string_check.h"
+#include "exercises_libs.h"
 
 int main() {
     string s{"Hi iam Ziad Mohamed Mokhtar"};
